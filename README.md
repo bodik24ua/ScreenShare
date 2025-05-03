@@ -29,7 +29,7 @@
 
 To start sharing your screen, download the desktop app:
 
-- [Download for macOS](https://github.com/bodik24ua/ScreenShare/latest)
+- [Download for macOS](https://github.com/bodik24ua/ScreenShare/releases/latest)
 
 > 🪟 Windows and 🐧 Linux versions are coming soon
 > 
